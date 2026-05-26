@@ -51,7 +51,6 @@ The notebook uses the following Python libraries:
 ### 2. Data Loading
 The training dataset is loaded into a Pandas DataFrame for analysis and preprocessing.
 
-Example:
 ```python
 train_df = pd.read_csv("datasets/train.csv")
 ```
